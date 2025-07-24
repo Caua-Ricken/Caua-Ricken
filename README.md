@@ -27,12 +27,12 @@ Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel 
 
 ### 💼 Projetos em Destaque
 
-- 🎮 [Mini Game](https://dev-caua-ricken.github.io/Mini-Game/) – Jogo simples e divertido com JavaScript puro  
-- ☁️ [Weather App](https://dev-caua-ricken.github.io/weather/) – Aplicativo de clima com consumo de API  
-- 🛒 [WineHub](https://caua-ricken.github.io/WineHub/) – E-commerce de vinhos com filtros e carrinho  
-- 🥤 [Refrigerante](https://dev-caua-ricken.github.io/refrigerante/) – Página estilizada com visual moderno
+- 🎮 [Mini Game](https://Caua-Ricken.github.io/Mini-Game/) – Jogo simples e divertido com JavaScript puro  
+- ☁️ [Weather App](https://Caua-Ricken.github.io/weather/) – Aplicativo de clima com consumo de API  
+- 🛒 [WineHub](https://Caua-Ricken.github.io/WineHub/) – E-commerce de vinhos com filtros e carrinho  
+- 🥤 [Refrigerante](https://Caua-Ricken.github.io/refrigerante/) – Página estilizada com visual moderno
 
-🔗 Veja todos os meus projetos nos [repositórios](https://github.com/dev-caua-ricken?tab=repositories)
+🔗 Veja todos os meus projetos nos [repositórios](https://github.com/Caua-Ricken?tab=repositories)
 
 ---
 
@@ -46,18 +46,18 @@ Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel 
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-caua-ricken&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-caua-ricken&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caua-Ricken&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Ricken&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
 ### 📫 Contato
 
-- 📧 Email: **[seu-email-aqui]**
-- 💼 LinkedIn: [linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
-- 🌐 Portfólio: [portfolio-dev](https://bit.ly/portfolio-dev)
+- 📧 Email: **[cauaricken@gmail.com]**
+- 💼 LinkedIn: [linkedin.com/in/Caua-Ricken](https://www.linkedin.com/in/cau%C3%A3-ricken-983b28318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUbWobTePSoSEz4nX1t1zaw%3D%3D)
+- 🌐 Portfólio: [portfolio-dev](https://caua-ricken.github.io/portifolio-dev/)
 
 ---
 
