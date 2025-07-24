@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Front-end em construção <br>
-  🎨 Apaixonado por Web Design com foco em Pixel Art <br>
+  🎨 Apaixonado por Web Design <br>
   🚀 Estudante de Sistemas de Informação <br>
   📍 Braço do Norte - SC, Brasil
 </p>
@@ -16,10 +16,10 @@ Tenho 19 anos e atualmente sou estudante de **Sistemas de Informação**. Desde 
 Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 
 - 🧩 HTML5, CSS3 e JavaScript  
-- 🎨 Tailwind CSS  
+- 🎨 Tailwind CSS (em aprendizado)
 - 🔧 Git e GitHub  
 - ☕ Java (nível básico)  
-- 🗃️ Banco de Dados (MySQL, SQL Server)  
+- 🗃️ Banco de Dados (SQL com Oracle Database)  
 
 Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
 
