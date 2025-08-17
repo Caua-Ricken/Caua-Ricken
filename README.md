@@ -1,8 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Cauã Ricken</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-end em construção <br>
-  🎨 Apaixonado por Web Design <br>
+  💻 Desenvolvedor Front-end <br>
   🚀 Estudante de Sistemas de Informação <br>
   📍 Braço do Norte - SC, Brasil
 </p>
