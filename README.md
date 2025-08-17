@@ -54,7 +54,7 @@ Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel 
 
 ### 📫 Contato
 
-- 📧 Email: **[cauaricken@gmail.com]**
+- 📧 Email: **cauaricken@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/Caua-Ricken](https://www.linkedin.com/in/cau%C3%A3-ricken-983b28318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUbWobTePSoSEz4nX1t1zaw%3D%3D)
 - 🌐 Portfólio: [portfolio-dev](https://caua-ricken.github.io/portifolio-dev/)
 
