@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mim
 
-Tenho 19 anos e atualmente sou estudante de **Sistemas de Informação**. Desde que comecei a programar, me apaixonei pelo desenvolvimento **front-end**, especialmente com foco em design criativo e visual retrô.
+Tenho 19 anos e atualmente sou estudante de **Sistemas de Informação**. Desde que comecei a programar, me apaixonei pelo desenvolvimento **front-end**, especialmente com foco em design criativo e responsivo.
 
 Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 
