@@ -15,10 +15,11 @@ Tenho 19 anos e atualmente sou estudante de **Sistemas de Informação**. Desde 
 Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 
 - 🧩 HTML5, CSS3 e JavaScript  
-- 🎨 Tailwind CSS (*em aprendizado*)
+- 🎨 Tailwind CSS
+- ⚛️ React
 - 🔧 Git e GitHub  
 - ☕ Java (*nível básico*)  
-- 🗃️ Banco de Dados (*SQL com Oracle Database*)  
+- 🗃️ Banco de Dados (SQL com Oracle Database e PostgreSQL)
 
 Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
 
