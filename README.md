@@ -10,16 +10,15 @@
 
 ### 🧠 Sobre mim
 
-Tenho 19 anos e atualmente sou estudante de **Sistemas de Informação**. Desde que comecei a programar, me apaixonei pelo desenvolvimento **front-end**, especialmente com foco em design criativo e responsivo.
+Tenho 20 anos e atualmente sou estudante de **Sistemas de Informação**. Desde que comecei a programar, me apaixonei pelo desenvolvimento **front-end**, especialmente com foco em design criativo e responsivo.
 
 Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 
 - 🧩 HTML5, CSS3 e JavaScript  
-- 🎨 Tailwind CSS
 - ⚛️ React
 - 🔧 Git e GitHub  
 - ☕ Java (*nível básico*)  
-- 🗃️ Banco de Dados (SQL com Oracle Database e PostgreSQL)
+- 🗃️ Banco de Dados (PostgreSQL e FireBird)
 
 Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
 
@@ -31,6 +30,8 @@ Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel 
 - ☁️ [Weather App](https://Caua-Ricken.github.io/weather/) – Aplicativo de clima com consumo de API  
 - 🛒 [WineHub](https://Caua-Ricken.github.io/WineHub/) – E-commerce de vinhos com filtros e carrinho  
 - 🥤 [Refrigerante](https://Caua-Ricken.github.io/refrigerante/) – Página estilizada com visual moderno
+
+### ⚛️ Acompanhe projetos em React também no link abaixo!
 
 🔗 Veja todos os meus projetos nos [repositórios](https://github.com/Caua-Ricken?tab=repositories)
 
