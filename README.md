@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Cauã Ricken</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-end <br>
+  💻 Desenvolvedor Full Stack <br>
   🚀 Estudante de Sistemas de Informação <br>
   📍 Braço do Norte - SC, Brasil
 </p>
@@ -14,11 +14,13 @@ Tenho 20 anos e atualmente sou estudante de **Sistemas de Informação**. Desde 
 
 Estou sempre buscando aprender e evoluir com as seguintes tecnologias:
 
-- 🧩 HTML5, CSS3 e JavaScript  
+- 🧩 HTML5, CSS3 e JavaScript
+- 🟢 Node.js, Express e Sequelize
 - ⚛️ React
 - 🔧 Git e GitHub  
 - ☕ Java (*nível básico*)  
-- 🗃️ Banco de Dados (PostgreSQL e FireBird)
+- 🗃️ Banco de Dados (MySql e FireBird)
+- 🔌 APIs REST e operações CRUD
 
 Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel Art** e animações leves.
 
