@@ -42,7 +42,7 @@ Gosto de criar **projetos interativos e criativos**, unindo código com **Pixel 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs,express,sequelize,mysql" alt="Skills" />
 </p>
 
 ---
